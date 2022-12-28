@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Kloudclub.com**
 
-- 🌱 I’m currently learning **ReactJs,Android Studio,C#**
+- 🌱 I’m currently learning **ReactJs,Android Studio,Nodejs**
 
 - 📝 I regularly write articles on [https://covidfoodmall.in/](https://covidfoodmall.in/)
 
-- 💬 Ask me about **c,java,**
+- 💬 Ask me about **c,java,python**
 
 - 📫 How to reach me **nishant.mishra_cs19@gla.ac.in**
 
