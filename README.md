@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **c,java,python**
 
-- 📫 How to reach me **nishant.mishra_cs19@gla.ac.in**
+- 📫 How to reach me **nishantmishra8874@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1HJbEKH4J1KP9S_F0qQnxIy6SknRKW92v](https://drive.google.com/drive/folders/1HJbEKH4J1KP9S_F0qQnxIy6SknRKW92v)
 
